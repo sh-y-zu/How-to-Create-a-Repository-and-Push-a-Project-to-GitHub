@@ -61,7 +61,7 @@ If you haven't already, sign up for a GitHub account at [github.com](https://git
 - Push your changes to GitHub:
 
    ```bash
-   git push origin master
+   git push origin main
    ```
 
    This command pushes your changes to the "master" branch of your GitHub repository. If you're working on a different branch, replace "master" with the name of your branch.
